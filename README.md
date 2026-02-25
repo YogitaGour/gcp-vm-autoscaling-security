@@ -33,7 +33,7 @@ Set up a virtual machine in Google Cloud Platform, implement auto-scaling based 
   3. Created test DENY rule to validate logging.
   4.Verified denied traffic in Logs Explorer using:
 
-      jsonPayload.disposition="DENIED"
+                  jsonPayload.disposition="DENIED"
 
 5. 4. Logging Verification
 
